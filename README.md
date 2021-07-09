@@ -16,13 +16,14 @@ by overlapping binary sequences*
 should suffice in any and all situations that apply*
 
 *A list of devices that are vulnerable to this attack
-consists of but is not limited to:
- Garage doors
- Automatic gates
- Cars*
+consists of but is not limited to:*
+
+**• Garage doors
+• Automatic gates
+• Cars**
 
 *This attack will NOT work on devices that utilize
-rollling codes*
+rolling codes*
 
 ## Prerequisites:
 
