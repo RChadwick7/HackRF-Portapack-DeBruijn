@@ -12,6 +12,15 @@ transmits a single signal that contains every possible
 combination of a specific bit-length in just seconds
 by overlapping binary sequences*
 
+*The files I am sharing only go from 8 to 12 bits which
+should suffice in any and all situations that apply*
+
+*A list of devices that are vulnerable to this attack
+consists of but is not limited to:
+ Garage doors
+ Automatic gates
+ Cars*
+
 *This attack will NOT work on devices that utilize
 rollling codes*
 
